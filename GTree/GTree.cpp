@@ -1,4 +1,4 @@
-#include "ex2.h"
+#include "GTree.h"
 using namespace std;
 
 bool cmp_int(const int a, const int b)
