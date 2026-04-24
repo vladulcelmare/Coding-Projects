@@ -1,6 +1,6 @@
 # 🚀 Coding Projects
 
-> A collection of personal projects built during my free time, focused on **numerical methods**, **low-level implementations**, and **machine learning fundamentals**.
+> A collection of personal projects built during my free time, focused on **numerical methods**, **low-level implementations**, **data structures**, and **machine learning fundamentals**.
 
 ---
 
@@ -54,11 +54,27 @@ A fully manual implementation of a **Multi-Layer Perceptron**, inspired by how f
 
 ---
 
+## 🌳 Data Structures (C++ / OOP)
+
+### 🔹 Template Tree Implementation (C++ OOP)
+A custom implementation of a **generic (templated) tree data structure** in C++ using Object-Oriented Programming principles.
+
+**Features:**
+- 🌱 Generic node structure using templates  
+- 🌿 Support for hierarchical tree representation  
+- 🔁 Recursive traversal operations (DFS-style)  
+- 🧩 OOP design with encapsulation and modularity  
+- ⚙️ Designed for extensibility and reuse in different contexts  
+
+> Focuses on combining **C++ templates + OOP design patterns** for flexible data structures.
+
+---
+
 ## 🎯 Goals
 
-- 📌 Understand core algorithms in **linear algebra** and **machine learning**  
-- 🔍 Avoid black-box libraries by building everything from scratch  
-- 🧠 Develop strong intuition for how models work internally  
+- 📌 Understand core algorithms in **linear algebra**, **data structures**, and **machine learning**  
+- 🔍 Avoid black-box libraries by implementing everything from scratch  
+- 🧠 Build strong intuition for how systems work internally  
 
 ---
 
@@ -70,12 +86,13 @@ A fully manual implementation of a **Multi-Layer Perceptron**, inspired by how f
 - Explore advanced architectures:
   - RNNs  
   - Transformers  
+- Expand C++ structures with:
+  - balancing trees  
+  - iterators  
+  - smart pointer management  
 
 ---
 
-## 🧩 Tech Focus
+## 🧩 Tech Stack
 
-`Python` • `Linear Algebra` • `Machine Learning` • `From-Scratch Implementations`
-
----
-
+`Python` • `C++` • `OOP` • `Templates` • `Linear Algebra` • `Machine Learning`
