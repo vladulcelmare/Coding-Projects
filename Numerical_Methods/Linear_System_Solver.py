@@ -13,6 +13,5 @@ def Ask_User():
 
 r = Ask_User()
 
-Func.Check_Options(r)
 r.mainloop()
 

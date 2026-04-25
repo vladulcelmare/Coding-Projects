@@ -874,7 +874,7 @@ header_frame.grid(row=0,  # occupies row 0 of our root
                   sticky="ew"  # we want it to occupy the space given
                   )
 header_label = ttk.Label(header_frame,
-                         text="Brought to you by : LUPU VLAD TUDOR ANDREI & POPA BOGDAN",
+                         text="Total Commander",
                          font=('Arial', 10, 'bold'),
                          anchor=tk.CENTER  # centers the text
                          )
