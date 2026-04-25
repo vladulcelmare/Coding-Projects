@@ -250,7 +250,7 @@ def random_QR():
     s = [(max_val - min_val) * random.random() + min_val for _ in range(n)]
 
     A = [[round((max_val - min_val) * random.random() + min_val, ep) for _ in range(n)] for _ in range(m)]
-    SOL = [ sum(A[i][j] * s[j] for j in range(n)) for i in range(m)]
+    SOL = [ round(sum(A[i][j] * s[j] for j in range(n)),ep) for i in range(m)]
 
     A_init = [row[:] for row in A]
     b = SOL[:]
